@@ -1,4 +1,4 @@
- Project Overview
+ ###Project Overview
 
 Optimizing resource management and bed availability is a critical challenge for healthcare providers. This project leverages Machine Learning to predict the duration of a patient's stay (Length of Stay) based on various factors such as patient demographics, admission details, and hospital resource statistics.
 
